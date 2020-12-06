@@ -1,0 +1,7 @@
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\bin\Debug\Trabajo_Final_EDD.exe.config
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\bin\Debug\Trabajo_Final_EDD.exe
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\bin\Debug\Trabajo_Final_EDD.pdb
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\obj\Debug\Trabajo_Final_EDD.csprojAssemblyReference.cache
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\obj\Debug\Trabajo_Final_EDD.csproj.CoreCompileInputs.cache
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\obj\Debug\Trabajo_Final_EDD.exe
+C:\Users\Ailu\Desktop\Prueba2\Final\Trabajo_Final_EDD\Trabajo_Final_EDD\obj\Debug\Trabajo_Final_EDD.pdb
